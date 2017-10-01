@@ -1,3 +1,5 @@
+- Removed everything except SAD.
+
 Version 5.8.2
 -------------
 

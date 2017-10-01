@@ -1,2 +1,0 @@
-rsc/Declarations/org.eclipse.jdt.core/antadapter/JDTCompilerAdapter.java.1.1
-rsc/Declarations/org.eclipse.jdt.core/antadapter/JDTCompilerAdapter.java.1.2
